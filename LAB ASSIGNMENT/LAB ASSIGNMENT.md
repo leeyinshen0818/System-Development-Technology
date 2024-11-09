@@ -2,10 +2,10 @@
 <h3> Output for each page </h3> 
 
 <h4> - Register </h4>
-<img src = "Output/Register.jpg" width = "500" >
+<img src = "Output/Register.jpg" width = "1000" >
 
 <h4> - Login </h4>
-<img src = "Output/Login.jpg" width = "500" >
+<img src = "Output/Login.jpg" width = "1000" >
 
 <h4> - Student List </h4>
 <img src = "Output/StudentList.jpg" width = "1000" >
@@ -14,7 +14,7 @@
 <img src = "Output/AddStudent.jpg" width = "1000" >
 
 <h4> - Update Student Info </h4>
-<img src = "Output/UpdateStudent.jpg" width = "500" >
+<img src = "Output/UpdateStudent.jpg" width = "1000" >
 
 <h4> - Pop Up Message </h4>
 <img src = "Output/MsgAdd.jpg" width = "500" >
