@@ -17,10 +17,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="StudentList.php">Student List</a>
+                        <a class="nav-link "  href="StudentList.php">Student List</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="AddStudent.php">Add Student</a>
+                        <a class="nav-link active" aria-current="page" href="AddStudent.php">Add Student</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="logout.php">logout</a>
