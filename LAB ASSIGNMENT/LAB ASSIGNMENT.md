@@ -16,7 +16,7 @@
 <h4> - Update Student Info </h4>
 <img src = "Output/UpdateStudent.jpg" width = "500" >
 
-<h4> - Pop Out Message </h4>
+<h4> - Pop Up Message </h4>
 <img src = "Output/MsgAdd.jpg" width = "500" >
 <img src = "Output/MsgUpdate.jpg" width = "500" >
 <img src = "Output/MsgDelete.jpg" width = "500" >
